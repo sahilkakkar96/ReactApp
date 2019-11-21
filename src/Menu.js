@@ -4,8 +4,8 @@ import './App.css';
 function Menu() {
   return (
     <div className="Menu">
-        <p>
-          This is the Menu Bar
+        <p style= {{textAlign:'left', marginLeft:'450px'}}>
+          List of Songs
         </p>
     </div>
   );
